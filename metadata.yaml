@@ -1,11 +1,16 @@
 _repo: Way-Marks-or-Directions-to-Persons-Commencing-a-Religious-Life_57328
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57328-h/images/cover.jpg
 creator:
   author:
     agent_name: Bedell, G.T.
     gutenberg_agent_id: '49319'
     url: http://www.gutenberg.org/2009/agents/49319
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57328#Way-Marks-or-Directions-to-Persons-Commencing-a-Religious-Life
 gutenberg_issued: '2018-06-14'
 gutenberg_type: Text
 identifiers:
